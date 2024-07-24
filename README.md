@@ -3,7 +3,7 @@
 The CSV file include - Movie name, Cover photo link, Source link, Rating, Trailer link and Category
 Total number of Movies Scraped - 
 ## Team Leaders
-Chaitenya Chand
+Chaitenya Chand \n
 Arbaz Khan
 ## Team Members
 Abhishek Kumar
